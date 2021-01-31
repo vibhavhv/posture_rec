@@ -1,5 +1,6 @@
 # posture_rec
 Posture Recognition and Correction using OpenPose in Python
+
 Project Title : Posture Recognition and Correction in an active Training Scenario
 
 Project Authors : Vibhav Hosahalli Venkataramaiah,Varadaraya G Shenoy, Vignesh S P
